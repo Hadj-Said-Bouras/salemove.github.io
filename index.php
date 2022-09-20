@@ -1,1 +1,1 @@
-<h1>Subdoamin takeover by Tiniri-Twat </h1>
+<?PHP echo "Hello THM"; ?>
